@@ -1,0 +1,7 @@
+include:
+  - board: nice_nano_v2
+    shield: glove80_lh
+    artifact-name: glove80_lh
+  - board: nice_nano_v2
+    shield: glove80_rh
+    artifact-name: glove80_rh
